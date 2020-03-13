@@ -2,3 +2,4 @@ MP2020
 - Membuat website
 - membuat web design
 - belajar developer 
+- membuat aplikasi
